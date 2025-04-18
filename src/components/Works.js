@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const Works = () => {
     return(
-        <section id="works" className="py-20 bg-gray-50">
+        <section id="works" className="py-20 bg-gray-50 pt-30 mt-10">
         <div className="max-w-6xl mx-auto px-4">
           {/* <h2 className="text-4xl font-bold mb-12">Selected works from<br />2020 to the present</h2> */}
           <h2 className="text-4xl font-bold mb-12">Selected Works from<br />the Past</h2>
