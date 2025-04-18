@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/austinogola/portfolio_v3/static/css/main.45318146.css",
+    "main.js": "/austinogola/portfolio_v3/static/js/main.ffc53683.js",
+    "static/js/453.1407b060.chunk.js": "/austinogola/portfolio_v3/static/js/453.1407b060.chunk.js",
+    "static/media/logo.svg": "/austinogola/portfolio_v3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/austinogola/portfolio_v3/index.html",
+    "main.45318146.css.map": "/austinogola/portfolio_v3/static/css/main.45318146.css.map",
+    "main.ffc53683.js.map": "/austinogola/portfolio_v3/static/js/main.ffc53683.js.map",
+    "453.1407b060.chunk.js.map": "/austinogola/portfolio_v3/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45318146.css",
+    "static/js/main.ffc53683.js"
+  ]
+}
